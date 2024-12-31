@@ -1,0 +1,13 @@
+	WELCOME BANSAL CONFECTIONARY
+
+ Bill Number : 9225
+ Customer Name : bkjm
+ Phone Number : 455535
+======================================
+ Products		QTY		Price
+======================================
+ Sprite		5		225
+--------------------------------------
+ Cold Drink			Rs. 11.25
+ Total Bill : 			 Rs. 236.25
+--------------------------------------

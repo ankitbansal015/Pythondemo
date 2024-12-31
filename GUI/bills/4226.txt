@@ -1,0 +1,13 @@
+	WELCOME BANSAL CONFECTIONARY
+
+ Bill Number : 4226
+ Customer Name : jhbj
+ Phone Number : 123
+======================================
+ Products		QTY		Price
+======================================
+ Frooti		10		600
+--------------------------------------
+ Cold Drink			Rs. 30.0
+ Total Bill : 			 Rs. 630.0
+--------------------------------------

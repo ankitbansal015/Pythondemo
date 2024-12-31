@@ -1,0 +1,13 @@
+	WELCOME BANSAL CONFECTIONARY
+
+ Bill Number : 8612
+ Customer Name : b hmj h
+ Phone Number : 23132123513
+======================================
+ Products		QTY		Price
+======================================
+ maida		5		150
+--------------------------------------
+ Grocery Tax			Rs. 7.5
+ Total Bill : 			 Rs. 157.5
+--------------------------------------
